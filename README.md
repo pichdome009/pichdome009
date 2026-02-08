@@ -8,26 +8,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Student+%7C+Freelancer+%7C+Creator;Transforming+Ideas+into+Reality" alt="Typing SVG" />
 </p>
 
-<!-- Animated Badges -->
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-8B5CF6?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-10B981?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=pichdome009&label=Profile%20Views&color=A78BFA&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=pichdome009&label=Profile%20Views&color=A78BFA&style=flat" />
 </p>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<!-- About Me Section with Code Animation -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
-  About Me 
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-</h2>
-
-<p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="400" />
-</p>
+<!-- About Me Section -->
+<h2 align="center">💫 About Me</h2>
 
 ```typescript
 class Developer {
@@ -58,10 +48,6 @@ class Developer {
 
 <!-- Tech Stack with Animation -->
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
-
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="400" />
-</p>
 
 <div align="center">
   
@@ -126,10 +112,7 @@ class Developer {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <!-- Current Projects Section -->
-<h2 align="center">
-  🚀 What I'm Working On
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</h2>
+<h2 align="center">🚀 What I'm Working On</h2>
 
 <div align="center">
 
@@ -146,11 +129,8 @@ class Developer {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<!-- Connect Section with Animated Icons -->
-<h2 align="center">
-  🤝 Let's Connect! 
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="25px">
-</h2>
+<!-- Connect Section -->
+<h2 align="center">🤝 Let's Connect!</h2>
 
 <p align="center">
   <a href="https://github.com/pichdome009">
@@ -183,10 +163,6 @@ class Developer {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=30&fontColor=fff&animation=twinkling" />
 </div>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%" />
-</p>
 
 <h3 align="center">
   Show some ❤️ by starring some repositories!
