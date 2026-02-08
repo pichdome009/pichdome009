@@ -1,74 +1,87 @@
-<!-- ====== HEADER ====== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Pich%20Udom&fontSize=45&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Freelancer%20%7C%20Learner&descAlignY=55" />
+<!-- ================= HEADER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:2c5364&height=260&section=header&text=Pich%20Udom&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Creative%20Front-End%20Developer%20%7C%20Freelancer&descAlignY=65" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pichdome009&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;UI%2FUX+Lover;Freelancer;Always+Learning" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pichdome009&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/github/followers/pichdome009?style=for-the-badge&color=orange" />
 </p>
 
 ---
 
-## 👋 About Me
+## ✨ Who Am I?
 
-💻 Passionate **Front-End Developer** from Cambodia 🇰🇭  
-🚀 Focused on building modern & responsive websites  
-📚 Learning every day, working toward freelance success  
+> 💡 “I build clean, fast, and beautiful websites.”
 
-- 🌱 Learning: Advanced JavaScript & UI Design  
-- 🎯 Goal: Professional Freelancer  
-- ⚡ Fun fact: I love turning ideas into websites
+🇰🇭 Developer from Cambodia  
+💻 Focused on modern UI & performance  
+🚀 Helping clients turn ideas into products  
+
+- 🌱 Learning: Advanced JS & UI Animation  
+- 🎯 Goal: Top Freelancer  
+- ⚡ Passion: Web Design + Coding
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Arsenal
 
-### 💻 Programming
-<p>
+### 💻 Languages
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js" />
 </p>
 
-### 🌐 Front-End
-<p>
+### 🎨 Front-End
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Performance Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pichdome009&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pichdome009&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pichdome009&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pichdome009&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pichdome009&layout=compact&theme=react&hide_border=true" width="45%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pichdome009&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 💎 Highlight Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🌐 Portfolio Website | Personal portfolio | HTML, CSS, JS |
-| 📱 Landing Page | Business landing page | Tailwind |
-| 💼 Admin Dashboard | Management system | Bootstrap |
+| 🚀 Project | 📝 Description | ⚙️ Stack |
+|----------|---------------|----------|
+| Portfolio Pro | Personal brand website | HTML / CSS / JS |
+| Business Site | Company landing page | Tailwind |
+| Dashboard UI | Admin panel | Bootstrap |
 
-👉 Check pinned repos below 👇
+👉 See pinned projects 👇
 
 ---
 
-## 📬 Contact Me
+## 📬 Let’s Work Together
 
-📧 Email: pichdome.rupp@gmail.com  
-💬 Facebook: (https://www.facebook.com/domepich/) 
-🌍 Open for freelance projects  
+📧 Email: pichdome.rupp@gmail.com 
+💬 Facebook: https://www.facebook.com/domepich/ 
+🌐 Available worldwide  
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Hire%20Me-Now-success?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <b>⭐ If you like my work, follow me!</b>
+  🌟 <b>Let’s build something amazing together!</b> 🌟
 </p>
 
-<!-- ====== FOOTER ====== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
+<!-- ================= FOOTER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:2c5364&height=160&section=footer" />
