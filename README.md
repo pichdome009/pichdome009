@@ -1,146 +1,193 @@
+<!-- Animated Header -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=PICH%20DOME&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
+</div>
 
-<!-- Header with Gradient Text -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Pich+Dome+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</h1>
-
+<!-- Animated Typing Text -->
 <p align="center">
-  <em>Student × Freelance Developer</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Student+%7C+Freelancer+%7C+Creator;Transforming+Ideas+into+Reality" alt="Typing SVG" />
 </p>
 
+<!-- Animated Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pichdome009&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-8B5CF6?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-10B981?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=pichdome009&label=Profile%20Views&color=A78BFA&style=for-the-badge" />
 </p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<!-- About Me Section with Code Animation -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
+  About Me 
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+</h2>
+
+<p align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="400" />
+</p>
+
+```typescript
+class Developer {
+    name: string = "Pich Dome";
+    role: string = "Student & Freelance Developer";
+    location: string = "Cambodia 🇰🇭";
+    
+    skills: {
+        languages: string[] = ["C/C++", "JavaScript", "HTML", "CSS"];
+        frameworks: string[] = ["Tailwind CSS", "Bootstrap"];
+        tools: string[] = ["Git", "VS Code", "Figma"];
+    }
+    
+    currentlyLearning: string[] = [
+        "Advanced JavaScript Patterns",
+        "System Design",
+        "UI/UX Principles"
+    ];
+    
+    getMotivation(): string {
+        return "Building the future, one commit at a time 🚀";
+    }
+}
+```
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<!-- Tech Stack with Animation -->
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="400" />
+</p>
+
+<div align="center">
+  
+### 💻 Languages
+  
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+### 🎨 Frameworks & Libraries
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+### 🔧 Tools & Technologies
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 </div>
 
-<br/>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<!-- About Section with Clean Layout -->
+<!-- GitHub Stats with Animation -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pichdome009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&ring_color=a78bfa" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pichdome009&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a78bfa&text_color=c9d1d9" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pichdome009&theme=tokyonight&hide_border=true&background=1a1b27&stroke=a78bfa&ring=8b5cf6&fire=f472b6&currStreakLabel=a78bfa" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pichdome009&bg_color=1a1b27&color=c9d1d9&line=8b5cf6&point=a78bfa&area=true&hide_border=true" />
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<!-- Contribution Snake Animation -->
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pichdome009/pichdome009/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pichdome009/pichdome009/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pichdome009/pichdome009/output/github-contribution-grid-snake.svg">
+</picture>
+
+<p align="center">
+  <i>🎯 Contributions are automatically updated daily!</i>
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<!-- Current Projects Section -->
+<h2 align="center">
+  🚀 What I'm Working On
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h2>
+
 <div align="center">
 
-```javascript
-const developer = {
-    name: "Pich Dome",
-    role: "Student & Freelancer",
-    languages: ["C/C++", "JavaScript", "HTML/CSS"],
-    frameworks: ["Tailwind CSS", "Bootstrap"],
-    currentFocus: "Building beautiful web experiences",
-    learning: "Advanced frontend architecture"
-};
+```diff
++ 🔨 Building responsive web applications with modern frameworks
++ 📚 Deepening knowledge in data structures & algorithms
++ 🎨 Exploring advanced CSS animations and effects
++ 💡 Contributing to open source projects
++ 🌱 Growing my freelance portfolio
 ```
 
 </div>
 
-<br/>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<!-- Tech Stack with Minimalist Badges -->
-<div align="center">
+<!-- Connect Section with Animated Icons -->
+<h2 align="center">
+  🤝 Let's Connect! 
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="25px">
+</h2>
 
-### Tech Stack
-
-<table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-        <br>C
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-        <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-        <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-        <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-        <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-        <br>Bootstrap
-    </td>
-</tr>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-        <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-        <br>VS Code
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-        <br>Figma
-    </td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- GitHub Stats with Clean Design -->
-<div align="center">
-
-### GitHub Stats
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pichdome009&show_icons=true&theme=dark&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&icon_color=6366f1&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pichdome009&layout=compact&theme=dark&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&border_color=30363d&hide_border=false" />
+<p align="center">
+  <a href="https://github.com/pichdome009">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pichdome009&theme=dark&background=0d1117&border=30363d&stroke=6366f1&ring=6366f1&fire=ec4899&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+<p align="center">
+  <i>💬 Feel free to reach out for collaborations or just a friendly chat!</i>
 </p>
 
-</div>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<br/>
-
-<!-- Activity Graph -->
+<!-- Quote Section -->
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pichdome009&bg_color=0d1117&color=c9d1d9&line=6366f1&point=ec4899&area=true&hide_border=false&border_color=30363d" />
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
-<br/>
-
-<!-- Connect Section -->
+<!-- Animated Footer -->
 <div align="center">
-
-### Let's Connect
-
-<a href="https://github.com/pichdome009">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=30&fontColor=fff&animation=twinkling" />
 </div>
 
-<br/>
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%" />
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" />
-</div>
+<h3 align="center">
+  Show some ❤️ by starring some repositories!
+</h3>
