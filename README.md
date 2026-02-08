@@ -1,53 +1,74 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Pich%20Udom&fontSize=40&fontColor=ffffff" />
+<!-- ====== HEADER ====== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Pich%20Udom&fontSize=45&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Freelancer%20%7C%20Learner&descAlignY=55" />
 
-# Hi 👋 I'm Pich Udom
-
-💻 Front-End Developer | 📚 Student | 🚀 Freelancer
-
----
-
-## 👨‍💻 About Me
-- 🌱 Currently learning Web Development
-- 🎯 Goal: Study & Freelance
-- 📍 From Cambodia 🇰🇭
-- ❤️ Love coding and building projects
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pichdome009&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 ---
 
-## 🛠️ Skills
+## 👋 About Me
 
-### Programming
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+💻 Passionate **Front-End Developer** from Cambodia 🇰🇭  
+🚀 Focused on building modern & responsive websites  
+📚 Learning every day, working toward freelance success  
 
-### Front-End
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+- 🌱 Learning: Advanced JavaScript & UI Design  
+- 🎯 Goal: Professional Freelancer  
+- ⚡ Fun fact: I love turning ideas into websites
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Tech Stack
 
-![Stats](https://github-readme-stats.vercel.app/api?username=pichdome009&show_icons=true&theme=tokyonight)
+### 💻 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pichdome009&layout=compact&theme=tokyonight)
-
----
-
-## 📂 My Projects
-🚀 Check my pinned repositories below 👇  
-I focus on real projects for learning and freelance.
-
----
-
-## 📫 Contact Me
-📧 Email: pichdome.rupp@gmail.com
-🌐 Facebook: https://www.facebook.com/domepich/
-💼 Available for freelance work
+### 🌐 Front-End
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
+</p>
 
 ---
 
-⭐ Thank you for visiting my profile!
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pichdome009&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pichdome009&theme=react&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pichdome009&layout=compact&theme=react&hide_border=true" width="45%" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🌐 Portfolio Website | Personal portfolio | HTML, CSS, JS |
+| 📱 Landing Page | Business landing page | Tailwind |
+| 💼 Admin Dashboard | Management system | Bootstrap |
+
+👉 Check pinned repos below 👇
+
+---
+
+## 📬 Contact Me
+
+📧 Email: pichdome.rupp@gmail.com  
+💬 Facebook: (https://www.facebook.com/domepich/) 
+🌍 Open for freelance projects  
+
+---
+
+<p align="center">
+  <b>⭐ If you like my work, follow me!</b>
+</p>
+
+<!-- ====== FOOTER ====== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
