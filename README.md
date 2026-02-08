@@ -1,52 +1,41 @@
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Pich!;Freelance+Developer;Always+Learning..." alt="Typing SVG" />
-  
-  <br/>
+# 👋 Hi, I'm Pich Udom (pichdome009)
+### Video Editor & Frontend Developer 🎬 💻
 
-  <p>
-     I am a passionate <b>Student</b> and <b>Freelancer</b> focusing on software development and web technologies. <br/>
-     I love building beautiful interfaces and writing efficient code.
-  </p>
+A creative soul from Cambodia 🇰🇭 blending the world of visual storytelling with clean, responsive code. Currently balancing studies with freelance projects.
 
-  <br/>
+---
 
-  <h3>🛠️ Languages & Tools</h3>
-  
-  <p>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  </p>
+### 🚀 About Me
+- 🎓 **Currently:** Studying and expanding my tech stack.
+- 💼 **Freelance:** Open for video editing and frontend development projects.
+- 🎨 **Interests:** 3D Modeling, AI Music Generation (Suno AI), and traditional Khmer aesthetics.
+- ⚡ **Fun Fact:** I love creating hyper-realistic 3D renders and sad Chinese ballads.
 
-  <br/>
+---
 
-  <h3>📊 GitHub Stats</h3>
-  <br/>
-  <p>
-    <a href="https://github.com/pichdome009">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pichdome009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Pich's Stats" />
-    </a>
-    <a href="https://github.com/pichdome009">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pichdome009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-    </a>
-  </p>
-  
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pichdome009&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
-  </p>
+### 🛠️ Tech & Tools
 
-  <br/>
+#### **Programming & Web**
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-  <h3>📫 Connect with Me</h3>
-  <p>
-    <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  </p>
+#### **Creative Suite**
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=CapCut&logoColor=white)
 
-</div>
+---
+
+### 📊 GitHub Stats
+![Udom's GitHub stats](https://github-readme-stats.vercel.app/api?username=pichdome009&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pichdome009&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR-PROFILE) - 📸 [Portfolio](https://yourportfolio.com) ---
+*“Visuals tell the story, but code builds the world.”*
