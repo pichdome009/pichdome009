@@ -31,49 +31,68 @@
 
 <br/>
 
-<!-- About Me with Beautiful Code Block -->
+<!-- About Me with Beautiful Visual Cards -->
 <div align="center">
 
 ## 💫 About Me
 
 </div>
 
-```typescript
-class Developer {
-    name: string = "Pich Dome";
-    role: string = "Full Stack Developer";
-    location: string = "Cambodia 🇰🇭";
-    status: string = "Student & Freelance Developer";
-    
-    skills = {
-        languages: ["C/C++", "JavaScript", "HTML5", "CSS3"],
-        frameworks: ["Tailwind CSS", "Bootstrap"],
-        tools: ["Git", "GitHub", "VS Code", "Figma"],
-        learning: ["React", "Node.js", "TypeScript", "Next.js"]
-    };
-    
-    interests = [
-        "💻 Web Development",
-        "🎨 UI/UX Design", 
-        "🔧 System Programming",
-        "🚀 Building Cool Stuff"
-    ];
-    
-    quote(): string {
-        return "Crafting digital experiences, one line at a time ✨";
-    }
-    
-    workingOn = {
-        education: "Advancing my programming skills",
-        freelance: "Building modern web applications",
-        openSource: "Contributing to the community",
-        goals: "Becoming a world-class developer"
-    };
-}
+<table>
+<tr>
+<td width="55%" valign="top">
 
-const me = new Developer();
-console.log(me.quote()); // ✨
+### 👨‍💻 Who Am I?
+
+Hi there! I'm **Pich Dome**, a passionate developer from Cambodia 🇰🇭 who loves turning ideas into reality through code.
+
+```javascript
+const aboutMe = {
+    role: "Full Stack Developer",
+    passion: "Building beautiful web experiences",
+    currentFocus: [
+        "Mastering modern web technologies",
+        "Creating responsive designs",
+        "Learning system architecture"
+    ],
+    motto: "Code with purpose, design with passion"
+};
 ```
+
+### 🎯 What I Do
+
+- 💻 **Develop** modern, responsive web applications
+- 🎨 **Design** intuitive and beautiful user interfaces  
+- 📚 **Learn** continuously to stay ahead in tech
+- 🚀 **Create** solutions that make a difference
+
+</td>
+<td width="45%" valign="top">
+
+### 📫 Quick Facts
+
+```yaml
+Name: Pich Dome
+Role: Student & Freelancer
+Location: Cambodia 🇰🇭
+Education: Computer Science
+Status: Available for projects
+
+Interests:
+  - Web Development
+  - UI/UX Design
+  - Problem Solving
+  - Open Source
+
+Working Hours:
+  - Coding: "All day, every day"
+  - Coffee: "Yes, please ☕"
+  - Learning: "Never stops 📚"
+```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
